@@ -51,7 +51,7 @@ Australia public holiday generator
 # Christmas Day: 25 Dec (and, if that day falls on a Saturday or Sunday, the following Monday)
 # Boxing Day: 26 Dec (or, if that day falls on a Saturday, the following Monday or, if 26 December falls on a Sunday or Monday, the following Tuesday)
 
-# QlD public holidays
+# QLD public holidays
 # https://www.legislation.qld.gov.au/view/pdf/inforce/current/act-1983-018
 # New Year's Day: 1 Jan (if that day falls on a Saturday or Sunday, the day AND the following Monday)
 # Australia Day: 26 Jan (or, if that day falls on a Saturday or Sunday, the following Monday)
